@@ -1,0 +1,4 @@
+- `let`: variable
+- `mut`: define  that a variable is mutable.
+  - observation: by deafult in Rust variable is immutable
+-  `use std::io;`: Default io libray
